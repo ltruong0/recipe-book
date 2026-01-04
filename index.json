@@ -17,6 +17,24 @@
         "Dinner",
         "Lunch"
       ]
+    },
+    {
+      "title": "Air Fryer Crispy Chicken Caesar",
+      "slug": "air-fryer-crispy-chicken-caesar",
+      "path": "recipes/air-fryer-crispy-chicken-caesar.md",
+      "sourceUrl": null,
+      "date": "2026-01-04T21:51:48.543Z",
+      "tags": [
+        "air fryer",
+        "chicken",
+        "salad",
+        "dinner",
+        "quick",
+        "crispy",
+        "Caesar",
+        "healthy",
+        "easy"
+      ]
     }
   ]
 }
