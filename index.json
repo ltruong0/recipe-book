@@ -35,6 +35,18 @@
         "healthy",
         "easy"
       ]
+    },
+    {
+      "title": "Viral Ground Beef Bowl",
+      "slug": "viral-ground-beef-bowl",
+      "path": "recipes/viral-ground-beef-bowl.md",
+      "sourceUrl": "https://healthyfitnessmeals.com/ground-beef-bowl/",
+      "date": "2026-01-04T23:27:55.396Z",
+      "tags": [
+        "dinner",
+        "ground beef",
+        "viral recipe"
+      ]
     }
   ]
 }
